@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Management System - Starter Project
 
 Welcome to the Software Engineering Shortcourse! This is your starter project that you'll build upon over the next 5 days.
@@ -67,3 +68,7 @@ Over the 5-day course, you'll transform this simple starter into a full-featured
 3. Wait for Day 1 materials to begin implementation
 
 Happy coding! 🚀
+=======
+# Project-Workshop-Semester-2
+Project Workshop Semester 2
+>>>>>>> 70d6c6d1c7f748b1bac7f2e1e7534daed787666e
